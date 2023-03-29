@@ -39,7 +39,7 @@ class _welcomeScreenState extends State<welcomeScreen> {
               Expanded(
                 flex: 0,
                 child: Text(
-                  'Login to your account and access our wonderful app',
+                  'Login to your account and access parking application',
                   style: TextStyle(
                       color: Colors.black.withOpacity(0.5),
                       fontWeight: FontWeight.w300,
